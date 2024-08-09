@@ -15,7 +15,3 @@ This project involves a comprehensive analysis of flight delay data to identify 
 - **Seaborn**: Data visualization.
 - **Matplotlib**: Plotting and graphical representation.
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/fda-project.git
